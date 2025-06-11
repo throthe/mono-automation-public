@@ -1,7 +1,7 @@
 {
   "name": "Noi Mode",
   "version": "0.2.1",
-  "sync": "https://github.com/throthe/mono-automation-setup-backup/blob/main/noi/configs/noi.mode.custom.json",
+  "sync": "https://github.com/throthe/mono-automation-public/blob/main/noi/configs/noi.mode.custom.json",
   "modes": [
     {
       "id": "noi@ai",
