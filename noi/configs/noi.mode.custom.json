@@ -10,7 +10,7 @@
       "text": "AI: General"
     },
     {
-      "id": "noi@ai-image",
+      "id": "noi@ai-content",
       "parent": 0,
       "dir": true,
       "text": "AI: Content"
@@ -50,6 +50,12 @@
       "parent": "noi@ai",
       "text": "DeepSeek",
       "url": "https://chat.deepseek.com"
+    },
+    {
+      "id": "noi:quillbot",
+      "parent": "noi@ai-content",
+      "text": "QuillBot",
+      "url": "https://quillbot.com/"
     }
   ]
 }
